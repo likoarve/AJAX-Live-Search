@@ -3,7 +3,7 @@ A 'Live Search' web application demonstrating the use of AJAX and JQuery in a st
 
 This project is created as part of the [**JavaScript and AJAX: Integration Techniques**](https://www.linkedin.com/learning/javascript-and-ajax-integration-techniques/) online course by **LinkedIn Learning** and **Ray Villalobos**.
 
-Hosted project URL: http://likoarve.com/ajax/
+Hosted project URL: http://likoarve.com/live-search/
 
 ## Getting Started
 
@@ -28,7 +28,7 @@ Finally, simply open the server using any modern browser using the following lin
 ```
 http://localhost:8008
 ```
-Alternatively, you can simply visit the [hosted version](http://likoarve.com/ajax/).
+Alternatively, you can simply visit the [hosted version](http://likoarve.com/live-search/).
 
 ## Contacts
 
